@@ -5,5 +5,6 @@
 
 
 **Над проектом работают:**
-[Кандрахин Никита](https://github.com/nukutalalka) \n
+[Кандрахин Никита](https://github.com/nukutalalka) 
+
 [Уляшин Вадим](https://github.com/stemoku)
